@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("THISISATEST")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a846e153bd538fb8383025dcf9498508401a94b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("THISISATEST")]
 [assembly: System.Reflection.AssemblyTitleAttribute("THISISATEST")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
